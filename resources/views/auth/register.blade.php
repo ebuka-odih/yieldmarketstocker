@@ -8,8 +8,10 @@
 
 
     <title>Register | Yieldmarketstocker</title>
+    <link rel="stylesheet" href="{{ asset('assets/css/apps.css') }}">
+
     <link rel="shortcut icon" href="https://www.beckstocker.com/public/favicon.ico">
-    <link rel="stylesheet" href="https://www.beckstocker.com/public/assets/css/apps.css?ver=1.0.0">
+{{--    <link rel="stylesheet" href="https://www.beckstocker.com/public/assets/css/apps.css?ver=1.0.0">--}}
 
 </head>
 </head>
