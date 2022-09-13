@@ -39,5 +39,7 @@
 <p>Solana Address: {{ setting('sol_wallet') }}</p>
 <br>
 <p>Your funds will add into your account as soon as we have confirmed the payment.</p>
-<p>Feel free to contact us if you have any questions.</p>
+<p>Feel free to contact us if you have any questions.
+    <a href="mailto:admin@yieldmarketstocker.com">admin@yieldmarketstocker.com</a>
+</p>
 @endcomponent

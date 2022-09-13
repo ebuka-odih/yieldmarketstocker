@@ -33,7 +33,7 @@
                                             <div class="form-text-hint form-text-hint-lg">
                                                 <span class="currency">USD</span>
                                             </div>
-                                            <input type="text" class="form-control form-control-lg form-control-number" id="deposit-amount" name="amount" placeholder="0.00">
+                                            <input type="text" required class="form-control form-control-lg form-control-number" id="deposit-amount" name="amount" placeholder="0.00">
                                         </div>
                                         <div class="form-row mt-2">
                                             <div class="col-12">
