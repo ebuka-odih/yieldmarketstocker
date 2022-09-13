@@ -1,11 +1,9 @@
 @component('mail::message')
-# Introduction
+# Withdrawal Request
 
-The body of your message.
-
-@component('mail::button', ['url' => ''])
-Button Text
-@endcomponent
+Name: {{ $data['user']->name }}
+<br>
+Amount: {{ $data['withdraw']->amount }}
 
 Thanks,<br>
 {{ config('app.name') }}
