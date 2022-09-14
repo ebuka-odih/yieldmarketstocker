@@ -13,7 +13,7 @@
                     <div class="uk-first-column">
                         <i class="fas fa-file fa-lg in-icon-wrap primary-color"></i>
                         <h3 class="uk-margin-top">Terms of Service</h3>
-                        <p>Read the Terms of Service and License Agreement for Yieldmarketstocker as well as our Portal Usage &amp; Agreements.</p>
+                        <p>Read the Terms of Service and License Agreement for Yieldmarketstocks as well as our Portal Usage &amp; Agreements.</p>
                         <ul class="uk-list uk-margin-top">
                             <li><a class="uk-flex uk-flex-middle" href="#"><i class="fas fa-file-pdf fa-sm uk-margin-small-right"></i>License Agreement</a></li>
                             <li><a class="uk-flex uk-flex-middle" href="#"><i class="fas fa-file-pdf fa-sm uk-margin-small-right"></i>Term of Services for Trade</a></li>
@@ -22,7 +22,7 @@
                     <div>
                         <i class="fas fa-globe fa-lg in-icon-wrap primary-color"></i>
                         <h3 class="uk-margin-top">Policies</h3>
-                        <p>Find out more about what information we collect at Yieldmarketstocker, how we use it, and what control you have over your data.</p>
+                        <p>Find out more about what information we collect at Yieldmarketstocks, how we use it, and what control you have over your data.</p>
                         <ul class="uk-list uk-margin-top">
                             <li><a class="uk-flex uk-flex-middle" href="#"><i class="fas fa-file-pdf fa-sm uk-margin-small-right"></i>Privacy Statement</a></li>
                         </ul>
@@ -54,44 +54,44 @@
                             <p>Please read these terms and conditions carefully. By accessing this site and any pages thereof, you agree to be bound by the terms and conditions below. If you do not agree to the terms and conditions below, do not access this site, or any pages thereof.</p>
                             <p><b>Use of information and materials</b></p>
 
-                            <p>The information and materials contained in these pages, and the terms, conditions, and descriptions that appear, are subject to change. Unauthorized use of Yieldmarketstocker'
-                                web sites and systems including but not limited to unauthorized entry into Yieldmarketstocker' systems, misuse of passwords, or misuse of any information posted on a site is strictly
-                                prohibited. Not all products and services are available in all geographic areas. Your eligibility for particular products and services is subject to final determination by Yieldmarketstocker and/or its affiliates. Copyright and Trademark. Copyright in the pages and in the screens displaying the pages, and in the information and material therein and in their arrangement, is owned by Yieldmarketstocker unless otherwise indicated.
-                                Yieldmarketstocker, LTD and the Yieldmarketstocker are trademarks and service marks of Yieldmarketstocker and are used and/or registered throughout the world. Yieldmarketstocker, Ltd and their subsidiaries also claim rights in certain other trademarks and service marks contained in these web pages.</p>
+                            <p>The information and materials contained in these pages, and the terms, conditions, and descriptions that appear, are subject to change. Unauthorized use of Yieldmarketstocks'
+                                web sites and systems including but not limited to unauthorized entry into Yieldmarketstocks' systems, misuse of passwords, or misuse of any information posted on a site is strictly
+                                prohibited. Not all products and services are available in all geographic areas. Your eligibility for particular products and services is subject to final determination by Yieldmarketstocks and/or its affiliates. Copyright and Trademark. Copyright in the pages and in the screens displaying the pages, and in the information and material therein and in their arrangement, is owned by Yieldmarketstocks unless otherwise indicated.
+                                Yieldmarketstocks, LTD and the Yieldmarketstocks are trademarks and service marks of Yieldmarketstocks and are used and/or registered throughout the world. Yieldmarketstocks, Ltd and their subsidiaries also claim rights in certain other trademarks and service marks contained in these web pages.</p>
 
                             <p><b>CUSTOMER TRADING AGREEMENT</b></p>
-                            <p>This Client Trading Agreement("Agreement") is between Yieldmarketstocker Limited and its affiliates, operator of the brand name Yieldmarketstocker (hereinafter: "Yieldmarketstocker")
+                            <p>This Client Trading Agreement("Agreement") is between Yieldmarketstocks Limited and its affiliates, operator of the brand name Yieldmarketstocks (hereinafter: "Yieldmarketstocks")
                                 and any end user (“Client”) (each a "Party" and together, the "Parties") and applies to any dealings between them. This Agreement incorporates by reference any
                                 additional appendices, including but limited to the Risk Disclosure and Declaration of Beneficial Ownership.</p>
 
                             <p><b><i>Generally, you will be required to upgrade your live trading account from Dynamic to a Classical Account before your profit can be pulled out of your Live Trading Account!</i></b></p>
 
-                            <p>1. General Services Rule: Client may enter into transactions with Yieldmarketstocker, in connection with spot and forward foreign currency contracts,
-                                foreign currencies swap transactions, and such other transactions as Yieldmarketstocker may from time to time make available (the “Services”).</p>
+                            <p>1. General Services Rule: Client may enter into transactions with Yieldmarketstocks, in connection with spot and forward foreign currency contracts,
+                                foreign currencies swap transactions, and such other transactions as Yieldmarketstocks may from time to time make available (the “Services”).</p>
                             <p>2. Margin: The Services may involve margined transactions, requiring Client to deposit cash to secure its obligations under this Agreement (“Security Margin”).</p>
-                            <p>3. Direct Relationship: Unless otherwise agreed in writing, Yieldmarketstocker and Client each enter into this Agreement as principal and Yieldmarketstocker will not accept an
-                                undisclosed/unapproved principal acting through Client. With regard to such a principal, Client agrees to provide Yieldmarketstocker with its identity, personal information,
-                                and other information that Yieldmarketstocker may seek.</p>
-                            <p>4. No Recommendation or Solicitation: Yieldmarketstocker does not recommend, solicit, offer, advise, suggest, concur on the merits of, or otherwise provide any opinion
+                            <p>3. Direct Relationship: Unless otherwise agreed in writing, Yieldmarketstocks and Client each enter into this Agreement as principal and Yieldmarketstocks will not accept an
+                                undisclosed/unapproved principal acting through Client. With regard to such a principal, Client agrees to provide Yieldmarketstocks with its identity, personal information,
+                                and other information that Yieldmarketstocks may seek.</p>
+                            <p>4. No Recommendation or Solicitation: Yieldmarketstocks does not recommend, solicit, offer, advise, suggest, concur on the merits of, or otherwise provide any opinion
                                 whether to buy or sell any currency or to engage in any other transaction. Neither the availability of the Services nor any communication by anyone associated
-                                with Yieldmarketstocker should be construed in this manner.</p>
-                            <p>5. Errors: Quotations provided by Yieldmarketstocker, via third parties or otherwise, may be incorrect for any reason. Following a transaction involving such quotation
-                                errors, Yieldmarketstocker in its discretion reserves the right to correct the affected account balance. Any dispute arising from such errors or corrections will be
+                                with Yieldmarketstocks should be construed in this manner.</p>
+                            <p>5. Errors: Quotations provided by Yieldmarketstocks, via third parties or otherwise, may be incorrect for any reason. Following a transaction involving such quotation
+                                errors, Yieldmarketstocks in its discretion reserves the right to correct the affected account balance. Any dispute arising from such errors or corrections will be
                                 resolved on the basis of the fair market value of the relevant currency at the time of the error.</p>
                             <p>6. Market Fluctuations: Client acknowledges that the market for currency is subject to sudden changes due news events and other announcements, acts of war or
                                 terrorism, power failures, strikes or civil commotions, business trends, political developments, fluctuations in other financial and commodity markets, and other
-                                factors beyond Yieldmarketstocker' control. Yieldmarketstocker may determine in its sole discretion that an emergency or exceptional market condition exists, in which case it
+                                factors beyond Yieldmarketstocks' control. Yieldmarketstocks may determine in its sole discretion that an emergency or exceptional market condition exists, in which case it
                                 reserves the right to impose trading limits or special terms, cancel or suspend any transaction, or close an account.</p>
                             <p>7. Availability: This site is not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use would be contrary to local law or regulation.</p>
-                            <p>8. Trading Indices: The Client hereby acknowledge that he is aware that in the case of Contract for Difference (CFD) trade, Yieldmarketstocker shall open its trading
-                                within 5 minutes of the opening of the relevant market. Yieldmarketstocker reserves the right not to accept any trade of such instrument during the first 5 minutes of the
-                                trading day. Yieldmarketstocker reserves its right to cancel any trade, in its own discretion, of such instrument made during the first 5 minutes of the trading day.</p>
-                            <p>9. Yieldmarketstocker shall execute the Client’s withdrawal within 96 working hours once all the above conditions are met and upon approval of such by the Yieldmarketstocker
+                            <p>8. Trading Indices: The Client hereby acknowledge that he is aware that in the case of Contract for Difference (CFD) trade, Yieldmarketstocks shall open its trading
+                                within 5 minutes of the opening of the relevant market. Yieldmarketstocks reserves the right not to accept any trade of such instrument during the first 5 minutes of the
+                                trading day. Yieldmarketstocks reserves its right to cancel any trade, in its own discretion, of such instrument made during the first 5 minutes of the trading day.</p>
+                            <p>9. Yieldmarketstocks shall execute the Client’s withdrawal within 96 working hours once all the above conditions are met and upon approval of such by the Yieldmarketstocks
                                 Back Office Department. The Client acknowledges that fund transfer times may vary according to its account type, issuing bank, intermediary bank, receiving bank,
-                                destination country or any other 3rd party involved in the transfer of funds. Yieldmarketstocker shall not be liable for any fund transfer delay caused by such 3rd party.</p>
-                            <p>10. Complaints: - Based on an operational agreement with Yieldmarketstocker Ltd., we are responsible for complaints where End-Users have
+                                destination country or any other 3rd party involved in the transfer of funds. Yieldmarketstocks shall not be liable for any fund transfer delay caused by such 3rd party.</p>
+                            <p>10. Complaints: - Based on an operational agreement with Yieldmarketstocks Ltd., we are responsible for complaints where End-Users have
                                 deposited money through our Platform. Our customer service is always available for any request, complaint or inquiry you may have
-                                at : support@Yieldmarketstocker.com. We have put in place formal procedures for handling complaints fairly and promptly, and each such filed inquiry shall be
+                                at : support@Yieldmarketstocks.com. We have put in place formal procedures for handling complaints fairly and promptly, and each such filed inquiry shall be
                                 thoroughly investigated and addressed in a fair manner.</p>
 
                             <p><i>All trading involves risk. CFDs are leveraged products and can result in losses that exceed your initial deposit. Please ensure you fully understand the risk involved and take care to manage your exposure.</i>
@@ -111,7 +111,7 @@
                                     <a class="uk-accordion-title" href="#">Privacy Policy</a>
                                     <div class="uk-accordion-content" hidden="">
                                         <h2>Privacy Policy</h2>
-                                        We accept that customer trust is the establishment of our business. That is the reason we are straightforward about how we gather and utilize the data you give us, and we need to feature the decisions you have for getting to and controlling your data. If it's not too much trouble see beneath to figure out how our different business lines utilize your data to give you the best customer experience. As usual, you can get in touch with us at support@Yieldmarketstocker.com with any inquiries or criticism.
+                                        We accept that customer trust is the establishment of our business. That is the reason we are straightforward about how we gather and utilize the data you give us, and we need to feature the decisions you have for getting to and controlling your data. If it's not too much trouble see beneath to figure out how our different business lines utilize your data to give you the best customer experience. As usual, you can get in touch with us at support@Yieldmarketstocks.com with any inquiries or criticism.
 
                                         <h5>Data We Collect from You</h5>
                                         At the point when you access our platform to do business with us—regardless of whether on our sites, on our applications, at occasions TradesAssets joins in, sorts out or supports, or in our branches or workplaces—we may gather certain individual data about you. For instance: <br>
@@ -135,13 +135,13 @@
                                 <li>
                                     <a class="uk-accordion-title" href="#">Company Trademarks</a>
                                     <div class="uk-accordion-content" hidden="">
-                                        <p>Our Company trademarks include the following list. The absence of any Company trademark, product name, service name, or any other name from this list does not belong to Yieldmarketstocker Company intellectual property rights.</p>
+                                        <p>Our Company trademarks include the following list. The absence of any Company trademark, product name, service name, or any other name from this list does not belong to Yieldmarketstocks Company intellectual property rights.</p>
                                         <p>The Company logo and name is ® Registered in The United States and UK with registrations over the world. The ® Registered mark shall only be used in The United States and UK until registrations are completed elsewhere.</p>
                                     </div>
                                 </li>
                             </ul>
                             <div class="uk-card uk-card-default uk-card-small uk-card-body uk-border-rounded uk-margin-medium-top">
-                                <p class="uk-text-small">For general inquiries please contact <a class="uk-text-lowercase uk-link" href="mailto:">legal@Yieldmarketstocker.com</a></p>
+                                <p class="uk-text-small">For general inquiries please contact <a class="uk-text-lowercase uk-link" href="mailto:">legal@Yieldmarketstocks.com</a></p>
                             </div>
                         </div>
                     </div>

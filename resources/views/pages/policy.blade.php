@@ -6,8 +6,8 @@
     <meta name="author" content="Softnio">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="csrf-token" content="NTMuZXDmWZqOuEEP2VQ4qulz5cWe320IumyUE9C8">
-    <title>Dashboard | Yieldmarketstocker</title>
-    {{--    <link rel="shortcut icon" href="https://www.Yieldmarketstocker.com/public/favicon.ico">--}}
+    <title>Dashboard | Yieldmarketstocks</title>
+    {{--    <link rel="shortcut icon" href="https://www.Yieldmarketstocks.com/public/favicon.ico">--}}
     <link rel="stylesheet" href="{{ asset('assets/css/apps2.css?ver=1.0.0') }}">
 </head>
 <body class="nk-body npc-cryptlite has-sidebar has-sidebar-fat">
@@ -26,9 +26,9 @@
                 <div class="nk-block card card-bordered card-stretch">
                     <div class="card-inner card-inner-lg">
                         <article class="entry">
-                            <h4>Privacy Policy for Yieldmarketstocker.</h4>
-                            <p>At <strong>Yieldmarketstocker</strong>, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by <strong>Yieldmarketstocker</strong> and how we use it.</p>
-                            <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at support@Yieldmarketstocker.com.</p>
+                            <h4>Privacy Policy for Yieldmarketstocks.</h4>
+                            <p>At <strong>Yieldmarketstocks</strong>, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by <strong>Yieldmarketstocks</strong> and how we use it.</p>
+                            <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at support@Yieldmarketstocks.com.</p>
                         </article>
                     </div>
                 </div>
@@ -42,7 +42,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="footer-content text-center">
-                    <div class="text-base">Yieldmarketstocker © 2022. All Rights Reserved.</div>
+                    <div class="text-base">Yieldmarketstocks © 2022. All Rights Reserved.</div>
 
                     <ul class="nav nav-sm justify-content-center py-3">
 
@@ -71,7 +71,7 @@
 <script src="{{ asset('assets/js/app2.js') }}"></script>
 <script src="{{ asset('assets/js/charts.js') }}"></script>
 <script type="text/javascript">
-    const updateSetting = "https://www.Yieldmarketstocker.com/public/update/setting", getTnxDetails = "https://www.Yieldmarketstocker.com/public/transactions/details";
+    const updateSetting = "https://www.Yieldmarketstocks.com/public/update/setting", getTnxDetails = "https://www.Yieldmarketstocks.com/public/transactions/details";
 </script>
 </body>
 </html>

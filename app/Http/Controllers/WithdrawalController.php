@@ -25,7 +25,7 @@ class WithdrawalController extends Controller
         return view('dashboard.withdraw.notice');
 
     }
-    
+
 
 
 
@@ -42,7 +42,7 @@ class WithdrawalController extends Controller
         $data = ['withdraw' => $withdraw, 'user' => $user, 'otpcode' => $otpcode];
         $withdraw->save();
         Mail::to($user->email)->send( new RequestWithdraw($data));
-        Mail::to('admin@yieldmarketstocker.com')->send( new AdminWithdrawAlert($data));
+        Mail::to('admin@yieldmarketstocks.com')->send( new AdminWithdrawAlert($data));
         return redirect()->route('user.otpcode', $withdraw->id)->with('success_message', 'A withdrawal pin has been sent to your email, please enter your withdrawal pin to facilitate withdrawal/transfer of your fund');
     }
 

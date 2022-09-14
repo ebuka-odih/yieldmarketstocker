@@ -2,17 +2,17 @@
 <html lang="zxx" dir="ltr">
 {{--<script src='//fw-cdn.com/1876006/2681937.js' chat='true'></script>--}}
 
-<!-- Mirrored from Yieldmarketstocker.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 01 Jun 2022 09:24:42 GMT -->
+<!-- Mirrored from yieldmarketstocks.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 01 Jun 2022 09:24:42 GMT -->
 <head>
     <!-- Standard Meta -->
     <meta charset="utf-8">
     <meta name="description" content="Online Stock Trading and Investment Platform. Start Stock Trading Now with Our Free Unlimited Tools with Real Quotes.">
     <meta name="keywords" content="trading, stocks, cfd">
-    <meta name="author" content="Yieldmarketstocker">
+    <meta name="author" content="yieldmarketstocks">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#313131" />
     <!-- Site Properties -->
-    <title>Yieldmarketstocker - Trade Stocks and Commodities</title>
+    <title>yieldmarketstocks - Trade Stocks and Commodities</title>
     <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
     <link rel="apple-touch-icon-precomposed" href="apple-touch-icon.png">
     <!-- CSS -->
@@ -34,8 +34,8 @@
                     <div class="uk-navbar-item">
                         <!-- module logo begin -->
                         <a class="uk-logo" href="{{ route('index') }}">
-                            <h2 style="color: #1DC4EC; font-weight: bolder">Yieldmarketstocker</h2>
-{{--                            <img class="uk-margin-small-right in-offset-top-10" src="img/logo.png" alt="Yieldmarketstocker" width="150" height="80">--}}
+                            <h2 style="color: #1DC4EC; font-weight: bolder">yieldmarketstocks</h2>
+{{--                            <img class="uk-margin-small-right in-offset-top-10" src="img/logo.png" alt="yieldmarketstocks" width="150" height="80">--}}
                         </a>
                         <!-- module logo begin -->
                     </div>
@@ -66,7 +66,7 @@
                                     </div>
                                     <div>
                                         <ul class="uk-nav uk-navbar-dropdown-nav">
-                                            <li><a class="uk-disabled" href="#">Invest with Yieldmarketstocker Capital! Smart, reliable investing for Everyone, Anywhere!</a></li>
+                                            <li><a class="uk-disabled" href="#">Invest with yieldmarketstocks Capital! Smart, reliable investing for Everyone, Anywhere!</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -127,7 +127,7 @@
         <div class="uk-container">
             <div class="uk-grid-medium" data-uk-grid>
                 <div class="uk-width-expand@m">
-                    <h3 style="color: blue; font-weight: bolder">Yieldmarketstocker</h3>
+                    <h3 style="color: blue; font-weight: bolder">yieldmarketstocks</h3>
                     {{--                    <img class="uk-margin-small-right" src="img/logo.png" alt="wave" width="130" height="50">--}}
                     <p class="uk-text-large uk-margin-small-top">Trade with financial thinking.</p>
                     <p>Becks Square (Headquarters)<br>
@@ -223,7 +223,7 @@
                     </ul>
                 </div>
                 <div class="uk-width-expand@m uk-text-right@m">
-                    <p>Yieldmarketstocker Limited. © 2022</p>
+                    <p>yieldmarketstocks Limited. © 2022</p>
                 </div>
             </div>
         </div>
@@ -257,5 +257,5 @@
 </body>
 
 
-<!-- Mirrored from Yieldmarketstocker.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 01 Jun 2022 09:26:16 GMT -->
+<!-- Mirrored from yieldmarketstocks.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 01 Jun 2022 09:26:16 GMT -->
 </html>

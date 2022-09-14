@@ -82,7 +82,7 @@
     <p>Please Note: Make your payment within 3 days, unless this order will be cancelled.</p>
     <p>Your funds will add into your account as soon as we have confirmed the payment.</p>
     <p>Feel free to contact us if you have any questions.
-        <a href="mailto:admin@yieldmarketstocker.com">admin@yieldmarketstocker.com</a>
+        <a href="mailto:admin@yieldmarketstocks.com">admin@yieldmarketstocks.com</a>
     </p>
 
 

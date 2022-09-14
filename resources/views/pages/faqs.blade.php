@@ -6,8 +6,7 @@
     <meta name="author" content="Softnio">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="csrf-token" content="NTMuZXDmWZqOuEEP2VQ4qulz5cWe320IumyUE9C8">
-    <title>Dashboard | Yieldmarketstocker</title>
-    {{--    <link rel="shortcut icon" href="https://www.Yieldmarketstocker.com/public/favicon.ico">--}}
+    <title>Dashboard | Yieldmarketstocks</title>
     <link rel="stylesheet" href="{{ asset('assets/css/apps2.css?ver=1.0.0') }}">
 </head>
 <body class="nk-body npc-cryptlite has-sidebar has-sidebar-fat">
@@ -27,8 +26,8 @@
                         <article class="entry">
                             <h4>How can we help you?</h4>
                             <p>Do You have any questions? We strongly recommend that you start searching for the necessary information in the FAQ section.</p>
-                            <h5>What is Yieldmarketstocker company?</h5>
-                            <p>Yieldmarketstocker platform is an international investment company. The activity of our company is aimed at the cryptocurrency trading, forex, stocks and providing investment services worldwide.</p>
+                            <h5>What is Yieldmarketstocks company?</h5>
+                            <p>Yieldmarketstocks platform is an international investment company. The activity of our company is aimed at the cryptocurrency trading, forex, stocks and providing investment services worldwide.</p>
                             <h5>How to create an account?</h5>
                             <p>The registration process on the website is quite simple. You need to fill out the fields of the registration form, which include full name, email address and password.</p>
                             <h5>Which payment methods do you accept?</h5>
@@ -48,7 +47,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="footer-content text-center">
-                        <div class="text-base">Yieldmarketstocker © 2022. All Rights Reserved.</div>
+                        <div class="text-base">Yieldmarketstocks © 2022. All Rights Reserved.</div>
 
                         <ul class="nav nav-sm justify-content-center py-3">
 
@@ -77,7 +76,7 @@
     <script src="{{ asset('assets/js/app2.js') }}"></script>
     <script src="{{ asset('assets/js/charts.js') }}"></script>
     <script type="text/javascript">
-        const updateSetting = "https://www.Yieldmarketstocker.com/public/update/setting", getTnxDetails = "https://www.Yieldmarketstocker.com/public/transactions/details";
+        const updateSetting = "https://www.Yieldmarketstocks.com/public/update/setting", getTnxDetails = "https://www.Yieldmarketstocks.com/public/transactions/details";
     </script>
 </body>
 </html>

@@ -45,7 +45,7 @@
                                 <h3 class="uk-heading-bullet"><a class="uk-link-text" href="#">Open a Support ticket</a></h3>
                                 <div class="uk-grid uk-grid-small" data-uk-grid="">
                                     <div class="uk-width-expand@m uk-first-column">
-                                        <p>Open a support ticket to enable us serve you better. You can write us at <b>support@Yieldmarketstocker.com</b></p>
+                                        <p>Open a support ticket to enable us serve you better. You can write us at <b>support@Yieldmarketstocks.com</b></p>
                                     </div>
                                     <div class="uk-width-auto@m">
                                         <i class="fas fa-life-ring fa-3x in-icon-wrap small transparent uk-margin-left"></i>

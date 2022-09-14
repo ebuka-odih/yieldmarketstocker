@@ -150,7 +150,7 @@
             <div class="uk-grid">
                 <div class="uk-width-1-1 uk-background-contain uk-background-center-right uk-background-image@m" style="background-image: url(img/in-wave-mockup-1.png);">
                     <h1 class="uk-margin-remove-bottom">Start <span class="uk-text-primary">trading</span></h1>
-                    <p class="uk-text-lead">on <span class="uk-text-primary">Yieldmarketstocker</span> via mobile devices.</p>
+                    <p class="uk-text-lead">on <span class="uk-text-primary">Yieldmarketstocks</span> via mobile devices.</p>
                     <p class="uk-margin-small-bottom">Available on multiple platform</p>
                     <a href="{{ route('login') }}" class="uk-button uk-button-secondary uk-border-rounded in-button-app">
                         <i class="fab fa-google-play fa-2x"></i>

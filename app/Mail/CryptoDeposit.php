@@ -30,7 +30,7 @@ class CryptoDeposit extends Mailable
     public function build()
     {
         return $this->markdown('emails.crypto-deposit')
-            ->subject('Yieldmarketstocker')
-            ->from('admin@yieldmarketstocker.com', "Yieldmarketstocker");
+            ->subject('Yieldmarketstocks')
+            ->from('admin@yieldmarketstocks.com', "Yieldmarketstocks");
     }
 }

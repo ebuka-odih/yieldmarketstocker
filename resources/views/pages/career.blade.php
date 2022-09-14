@@ -30,7 +30,7 @@
                                 <i class="fas fa-map-marker-alt uk-margin-small-right"></i> Alabama, USA
                             </td>
                             <td class="uk-text-left uk-text-right@m">
-                                <a class="uk-button uk-button-primary uk-border-rounded" href="https://www.Yieldmarketstocker.com/tsa/">Apply for this job <i class="fas fa-file-alt uk-margin-small-left"></i></a>
+                                <a class="uk-button uk-button-primary uk-border-rounded" href="https://www.Yieldmarketstocks.com/tsa/">Apply for this job <i class="fas fa-file-alt uk-margin-small-left"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -41,7 +41,7 @@
                                 <i class="fas fa-map-marker-alt uk-margin-small-right"></i> London, United Kingdom
                             </td>
                             <td class="uk-text-left uk-text-right@m">
-                                <a class="uk-button uk-button-primary uk-border-rounded" href="https://www.Yieldmarketstocker.com/tsa/">Apply for this job <i class="fas fa-file-alt uk-margin-small-left"></i></a>
+                                <a class="uk-button uk-button-primary uk-border-rounded" href="https://www.Yieldmarketstocks.com/tsa/">Apply for this job <i class="fas fa-file-alt uk-margin-small-left"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -52,7 +52,7 @@
                                 <i class="fas fa-map-marker-alt uk-margin-small-right"></i> New York, USA
                             </td>
                             <td class="uk-text-left uk-text-right@m">
-                                <a class="uk-button uk-button-primary uk-border-rounded" href="https://www.Yieldmarketstocker.com/tsa/">Apply for this job <i class="fas fa-file-alt uk-margin-small-left"></i></a>
+                                <a class="uk-button uk-button-primary uk-border-rounded" href="https://www.Yieldmarketstocks.com/tsa/">Apply for this job <i class="fas fa-file-alt uk-margin-small-left"></i></a>
                             </td>
                         </tr>
                         </tbody>

@@ -30,8 +30,8 @@ class EmptyCryptoDeposit extends Mailable
     public function build()
     {
         return $this->markdown('emails.empty_crypto_deposit')
-            ->subject('Yieldmarketstocker')
-            ->from('admin@yieldmarketstocker.com', "Yieldmarketstocker");
+            ->subject('Yieldmarketstocks')
+            ->from('admin@yieldmarketstocks.com', "Yieldmarketstocks");
     }
 
 }

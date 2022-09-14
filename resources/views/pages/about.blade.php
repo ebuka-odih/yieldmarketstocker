@@ -28,7 +28,7 @@
                         </div>
                         <div>
                             <h3>History</h3>
-                            <p>Having more than 11 years experience, Yieldmarketstocker is now one of the largest stock exchanges listed Stocks &amp; CFD broker in the world. We have offices in over 13 countries including UK, Poland, Germany, France and Turkey. We are also regulated by the world's biggest supervision authorities.</p>
+                            <p>Having more than 11 years experience, Yieldmarketstocks is now one of the largest stock exchanges listed Stocks &amp; CFD broker in the world. We have offices in over 13 countries including UK, Poland, Germany, France and Turkey. We are also regulated by the world's biggest supervision authorities.</p>
                         </div>
                     </div>
                     <div class="uk-flex uk-flex-left">
@@ -79,7 +79,7 @@
                                 </div>
                                 <div class="uk-width-expand@m">
                                     <h4>Countries covered</h4>
-                                    <p>Invest with Yieldmarketstocker! Smart, reliable investing for Everyone, Anywhere!</p>
+                                    <p>Invest with Yieldmarketstocks! Smart, reliable investing for Everyone, Anywhere!</p>
                                 </div>
                             </div>
                         </div>

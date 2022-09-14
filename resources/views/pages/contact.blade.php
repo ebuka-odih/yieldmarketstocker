@@ -19,7 +19,7 @@
                                     6357 Leon Street, Belton, (TX), 76513.
                                     Texas - United States</p>
                                 <h4 class="uk-margin-medium-top uk-margin-remove-bottom">Message Us</h4>
-                                <p class="uk-margin-small-top">support@Yieldmarketstocker.com<br>+1-(727)-655-9838 (Phone might not be available due to the COVID-19 pandemic, you can write us via email instead)</p>
+                                <p class="uk-margin-small-top">support@Yieldmarketstocks.com<br>+1-(727)-655-9838 (Phone might not be available due to the COVID-19 pandemic, you can write us via email instead)</p>
                                 <div class="uk-margin-medium-top in-contact-socials">
                                     <a href="https://www.youtube.com/"><i class="fab fa-youtube fa-lg uk-margin-right"></i></a>
                                     <a href="https://www.facebook.com/"><i class="fab fa-facebook-square fa-lg uk-margin-right"></i></a>

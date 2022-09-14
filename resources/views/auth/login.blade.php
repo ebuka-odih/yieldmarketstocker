@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 
-    <title>Login | Yieldmarketstocker</title>
+    <title>Login | Yieldmarketstocks</title>
     <link rel="shortcut icon" href="https://www.beckstocker.com/public/favicon.ico">
     <link rel="stylesheet" href="{{ asset('assets/css/apps.css') }}">
 
@@ -109,7 +109,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="nk-block-content text-center text-lg-left">
-                            <p class="text-soft">Yieldmarketstocker &copy; 2022. All Rights Reserved.</p>
+                            <p class="text-soft">Yieldmarketstocks &copy; 2022. All Rights Reserved.</p>
                         </div>
                     </div>
                 </div>

@@ -9,7 +9,7 @@
                 <div class="uk-width-1-1 uk-first-column">
                     <h1 class="uk-margin-remove">A <span class="in-highlight">relationship</span> on your terms.</h1>
                     <p class="uk-text-lead uk-text-muted uk-margin-remove">Work with us the way you want.</p>
-                    <p>Some believe you must choose between an online broker and a wealth management firm. At Yieldmarketstocker, you don’t need to compromise. Whether you invest on your own, with an advisor, or a little of both — we can support you.</p>
+                    <p>Some believe you must choose between an online broker and a wealth management firm. At Yieldmarketstocks, you don’t need to compromise. Whether you invest on your own, with an advisor, or a little of both — we can support you.</p>
                 </div>
                 <div class="uk-grid-margin uk-first-column">
                     <div class="uk-card uk-card-default uk-card-body uk-border-rounded uk-light in-card-green">
