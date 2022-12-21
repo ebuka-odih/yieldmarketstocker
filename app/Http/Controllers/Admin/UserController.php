@@ -5,6 +5,7 @@ namespace App\Http\Controllers\Admin;
 use App\Http\Controllers\Controller;
 use App\User;
 use App\WithdrawMethod;
+use Carbon\Carbon;
 use Illuminate\Http\Request;
 
 class UserController extends Controller
@@ -19,6 +20,14 @@ class UserController extends Controller
     {
         $user = User::findOrFail($id);
         return view('admin.user.personal', compact('user'));
+    }
+
+    public function verifyUser($id)
+    {
+        $user = User::findOrFail($id);
+        $user->email_verified_at = Carbon::now();
+        $user->save();
+        return redirect()->back()->with('success', "User Verified Successfully");
     }
 
     public function userWithdrawMethod($id)

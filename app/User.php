@@ -90,5 +90,14 @@ class User extends Authenticatable implements MustVerifyEmail
         return floor($currency * $this->balance);
     }
 
+    public function verifiedUser()
+    {
+        if ($this->email_verified_at != null)
+        {
+            return "<span class='badge bg-primary'>Verified</span>";
+        }
+        return "<span class='badge bg-warning'>Not Verified</span>";
+    }
+
 
 }

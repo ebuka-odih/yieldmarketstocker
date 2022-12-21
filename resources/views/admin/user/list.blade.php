@@ -29,6 +29,7 @@
                             <th class="text-center" style="width: 50px;">#</th>
                             <th>Name</th>
                             <th>Email</th>
+                            <th class="d-none d-sm-table-cell" >Verified</th>
                             <th class="d-none d-sm-table-cell" style="width: 15%;">Status</th>
                             <th class="d-none d-sm-table-cell" style="width: 15%;">Joined At</th>
                             <th class="text-center" style="width: 100px;">Actions</th>
@@ -44,6 +45,9 @@
                                 <td class="fw-semibold">
                                     {{ $item->email }}
                                 </td>
+                                <td class="fw-semibold">
+                                    {!!  $item->verifiedUser() !!}
+                                </td>
                                 <td class="d-none d-sm-table-cell">
                                     {!! $item->status() !!}
                                 </td>
@@ -52,6 +56,9 @@
                                 </td>
                                 <td class="text-center">
                                     <div class="btn-group">
+                                        <a href="{{ route('admin.verifyUser', $item->id) }}" class="btn btn-sm btn-alt-secondary js-bs-tooltip-enabled" data-bs-toggle="tooltip" title="" data-bs-original-title="Edit">
+                                            <i class="fa fa-check"></i>
+                                        </a>
                                         <a href="{{ route('admin.viewUser', $item->id) }}" class="btn btn-sm btn-alt-secondary js-bs-tooltip-enabled" data-bs-toggle="tooltip" title="" data-bs-original-title="Edit">
                                             <i class="fa fa-eye"></i>
                                         </a>
