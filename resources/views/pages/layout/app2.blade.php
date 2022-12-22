@@ -150,9 +150,8 @@
                     <h3 style="color: blue; font-weight: bolder">Yieldmarketstocks</h3>
                     {{--                    <img class="uk-margin-small-right" src="img/logo.png" alt="wave" width="130" height="50">--}}
                     <p class="uk-text-large uk-margin-small-top">Trade with financial thinking.</p>
-                    <p>Becks Square (Headquarters)<br>
-                        6357 Leon Street, Belton, (TX), 76513.<br>
-                        Texas - United States
+                    <p>Contact Us<br>
+                        Email: <a href="mailto:support@yieldmarketstocks.com">support@yieldmarketstocks.com</a>
                     </p>
                 </div>
                 <div class="uk-width-3-5@m">
