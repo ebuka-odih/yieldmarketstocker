@@ -87,7 +87,7 @@
                                         <ul class="uk-nav-sub">
                                             <li><a href="about">About</a></li>
                                             <li><a href="careers">Careers</a></li>
-                                            <li><a href="contact">Contact</a></li>
+                                            <li><a href="{{ route('contact') }}">Contact</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="education">Education</a></li>
@@ -157,7 +157,7 @@
                             <ul class="uk-list uk-link-text">
                                 <li><a href="about">Our story</a></li>
                                 <li><a href="about">Our leadership</a></li>
-                                <li><a href="contac">Contact us</a></li>
+                                <li><a href="{{ route('contact') }}">Contact us</a></li>
                                 <li><a href="about">Partners</a></li>
                             </ul>
                         </div>

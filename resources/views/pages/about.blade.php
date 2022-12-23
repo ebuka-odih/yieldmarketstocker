@@ -69,6 +69,7 @@
                                     <h4>Trading instruments</h4>
                                     <p>Familiarize yourself with advanced strategies and our trading toolset. Take your trading to the next level.</p>
                                 </div>
+
                             </div>
                             <div class="uk-margin-large uk-grid" data-uk-grid="">
                                 <div class="uk-width-1-3@m uk-first-column">
