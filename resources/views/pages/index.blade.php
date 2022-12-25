@@ -14,19 +14,13 @@
                         </h3>
                     </div>
                     <div class="_2-button-lockup">
-                        <a href="https://my.upflowy.com/ef1-early-access-flow" target="_blank" class="medium-button rich-purple w-button">Apply for early access <span class="right-arrow-white">&gt;</span>
+                        <a href="{{ route('register') }}" target="_blank" class="medium-button rich-purple w-button">Apply for early access <span class="right-arrow-white">&gt;</span>
                         </a>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="container small-top">
-            <div class="_8-column">
-                <div id="w-node-_6540f351-53d3-52ce-0c62-bd356aca97a9-f84df573" style="padding-top:56.17021276595745%" class="w-embed-youtubevideo hero-video">
-                    <iframe src="https://www.youtube.com/embed/6nlfwna-By8?rel=0&amp;controls=1&amp;autoplay=0&amp;mute=0&amp;start=0" frameBorder="0" style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto" allow="autoplay; encrypted-media" allowfullscreen="" title="What is YIELDMARKETSTOCKS? | Trading Journal Breakdown"></iframe>
-                </div>
-            </div>
-        </div>
+
     </div>
     <div class="section">
         <div class="container hero-top">
@@ -57,7 +51,7 @@
                             </div>
                         </div>
                     </div>
-                    <a href="https://hfcn5320ssf.typeform.com/to/vgDAig6s" target="_blank" class="text-button w-button">Apply for early access <span class="solid-icons-override-right"></span>
+                    <a href="{{ route('register') }}" target="_blank" class="text-button w-button">Apply for early access <span class="solid-icons-override-right"></span>
                     </a>
                 </div>
                 <div id="w-node-_7d4994c4-cda0-146c-5027-3c0feaec8d4b-f84df573" class="content-image-right">
@@ -89,7 +83,7 @@
                             </div>
                         </div>
                     </div>
-                    <a href="https://hfcn5320ssf.typeform.com/to/vgDAig6s" target="_blank" class="text-button w-button">Apply for early access <span class="solid-icons-override-right"></span>
+                    <a href="{{ route('register') }}" target="_blank" class="text-button w-button">Apply for early access <span class="solid-icons-override-right"></span>
                     </a>
                 </div>
             </div>
@@ -115,7 +109,7 @@
                             </div>
                         </div>
                     </div>
-                    <a href="https://hfcn5320ssf.typeform.com/to/vgDAig6s" target="_blank" class="text-button w-button">Apply for early access <span class="solid-icons-override-right"></span>
+                    <a href="{{ route('register') }}" target="_blank" class="text-button w-button">Apply for early access <span class="solid-icons-override-right"></span>
                     </a>
                 </div>
                 <div id="w-node-_1760c4c7-acd1-c7a2-620e-39e52741a8d8-f84df573" class="content-image-right">
@@ -286,7 +280,7 @@
                                 </div>
                                 <h3 class="enlarged-bold-h3 white-text _1em-bottom-margin">Thousands of traders have achieved their goals with the power of Yieldmarketstocks</h3>
                                 <div class="_2-button-lockup">
-                                    <a href="https://hfcn5320ssf.typeform.com/to/vgDAig6s" target="_blank" class="medium-button rich-purple w-button">Apply for early access <span class="right-arrow-white">&gt;</span>
+                                    <a href="{{ route('register') }}" target="_blank" class="medium-button rich-purple w-button">Apply for early access <span class="right-arrow-white">&gt;</span>
                                     </a>
                                 </div>
                             </div>
