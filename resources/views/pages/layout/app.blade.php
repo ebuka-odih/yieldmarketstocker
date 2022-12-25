@@ -108,8 +108,8 @@
                 <a href="features.html" class="nav-link light-text w-nav-link">Features</a>
                 <a href="pricing.html" class="nav-link light-text w-nav-link">Pricing</a>
                 <a href="integrations.html" class="nav-link light-text w-nav-link">Integrations</a>
-                <a href="https://app.tradezella.com/auth/login" target="_blank" class="nav-link light-text w-nav-link">Log In</a>
-                <a href="https://hfcn5320ssf.typeform.com/to/vgDAig6s" target="_blank" class="nav-end-link w-nav-link">Apply for early access <span class="right-arrow-white">&gt;</span>
+                <a href="{{ route('login') }}" target="_blank" class="nav-link light-text w-nav-link">Log In</a>
+                <a href="{{ route('register') }}" target="_blank" class="nav-end-link w-nav-link">Apply for early access <span class="right-arrow-white">&gt;</span>
                 </a>
             </nav>
             <div class="menu-button w-nav-button">
