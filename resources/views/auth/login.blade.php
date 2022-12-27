@@ -93,13 +93,10 @@
                         <ul class="nav nav-sm justify-content-center justify-content-lg-end">
 
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ route('faq') }}">FAQs</a>
+                                <a class="nav-link" href="{{ route('login') }}">FAQs</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="https://www.beckstocker.com/public/page/terms-and-condition">Terms and Condition</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="https://www.beckstocker.com/public/page/privacy-policy">Privacy Policy</a>
+                                <a class="nav-link" href="{{ route('privacy') }}">Privacy Policy</a>
                             </li>
 
                         </ul>
