@@ -164,7 +164,7 @@
         <div class="footer-1">
             <div id="w-node-_95697d18-bfb3-0d47-8bdc-89304b19c3ab-4b19c3a8" class="footer-1---1">
                 <a href="{{ route('login') }}" target="_blank" class="footer-link-light _5em-bottom-margin">Log In</a>
-                <a href="mailto:support@yieldmarketstocks.com" class="footer-link-light _5em-bottom-margin">Contact</a>
+                <a href="mailto:support@yieldmarketstocks.com" class="footer-link-light _5em-bottom-margin">Contact Us</a>
             </div>
             <div id="w-node-_95697d18-bfb3-0d47-8bdc-89304b19c3ba-4b19c3a8" class="footer-1---2">
 {{--                <a href="{{ route('terms') }}" class="footer-link-light _5em-bottom-margin">Payment Method</a>--}}
