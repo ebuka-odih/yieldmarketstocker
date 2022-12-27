@@ -94,58 +94,7 @@
 <div class="w-embed w-iframe">
 
 </div>
-<div class="section gradient-1 no-overflow">
-    <div class="container">
-        <div data-collapse="medium" data-animation="default" data-duration="0" data-easing="ease" data-easing2="ease" role="banner" class="navbar w-nav">
-            <div class="brand-wrapper-large">
-                <a href="{{ route('index') }}" >
-                    <h3 style="font-weight: bolder; color: white">Yieldmarketstocks</h3>
-                </a>
-            </div>
 
-            <nav role="navigation" class="nav-menu w-nav-menu">
-                <a href="blog.html" class="nav-link light-text w-nav-link">Blog</a>
-                <a href="features.html" class="nav-link light-text w-nav-link">Features</a>
-                <a href="pricing.html" class="nav-link light-text w-nav-link">Pricing</a>
-                <a href="integrations.html" class="nav-link light-text w-nav-link">Integrations</a>
-                <a href="{{ route('login') }}" target="_blank" class="nav-link light-text w-nav-link">Log In</a>
-                <a href="{{ route('register') }}" target="_blank" class="nav-end-link w-nav-link">Apply for early access <span class="right-arrow-white">&gt;</span>
-                </a>
-            </nav>
-            <div class="menu-button w-nav-button">
-                <div class="w-icon-nav-menu"></div>
-            </div>
-        </div>
-    </div>
-    <div class="container giant-top medium-bottom">
-        <div class="_16-column">
-            <div id="w-node-cc1bda55-6712-de20-3a79-63aa4694e826-f84df573" class="hero-center">
-                <div class="hero-stars-lockup-1-center _1-5em-bottom-margin">
-                    <div class="stars-1">
-                        <div class="full-green-star"></div>
-                        <div class="full-green-star"></div>
-                        <div class="full-green-star"></div>
-                        <div class="full-green-star"></div>
-                        <div class="full-green-star"></div>
-                    </div>
-                    <div>4.7 • <a href="https://www.trustpilot.com/review/tradezella.com" target="_blank" class="white-text">TrustPilot Reviews</a>
-                    </div>
-                </div>
-                <h1 class="white-text _375em-bottom-margin">Become a Profitable Trader Through Journaling</h1>
-                <div class="hero-subtitle-container">
-                    <h3 class="light-paragraph-text _1-5em-bottom-margin">Your all in one trading journal to help you track, analyze and improve.</h3>
-                </div>
-                <div class="_2-button-lockup">
-                    <a href="https://hfcn5320ssf.typeform.com/to/vgDAig6s" target="_blank" class="medium-button rich-purple w-button">Apply for early access <span class="right-arrow-white">&gt;</span>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="container">
-        <img src="https://uploads-ssl.webflow.com/630df394ff44d46a174df570/6331ef6d67a79f81764ff701_image12.png" loading="lazy" alt="" class="hero-image-2" />
-    </div>
-</div>
 
 @yield('content')
 
@@ -219,22 +168,6 @@
             <div id="w-node-_95697d18-bfb3-0d47-8bdc-89304b19c3ba-4b19c3a8" class="footer-1---2">
                 <a href="https://app.tradezella.com/information/privacy" class="footer-link-light _5em-bottom-margin">Privacy Policy</a>
                 <a href="https://app.tradezella.com/information/terms" class="footer-link-light _5em-bottom-margin">Terms &amp; Conditions</a>
-            </div>
-            <div id="w-node-_95697d18-bfb3-0d47-8bdc-89304b19c3c9-4b19c3a8" class="footer-1---3">
-                <div class="footer-1---social-links-lockup">
-                    <a href="http://twitter.com/TradeZella" target="_blank" class="footer---link-block-dark _5em-right-margin w-inline-block">
-                        <div class="brand-icons-override"></div>
-                    </a>
-                    <a href="https://www.instagram.com/tradezella/" target="_blank" class="footer---link-block-dark _5em-right-margin w-inline-block">
-                        <div class="brand-icons-override"></div>
-                    </a>
-                    <a href="https://www.linkedin.com/company/tradezella?trk=public_profile_topcard-current-company" target="_blank" class="footer---link-block-dark _5em-right-margin w-inline-block">
-                        <div class="brand-icons-override"></div>
-                    </a>
-                    <a href="https://www.facebook.com/tradezella/" target="_blank" class="footer---link-block-dark w-inline-block">
-                        <div class="brand-icons-override"></div>
-                    </a>
-                </div>
             </div>
         </div>
     </div>

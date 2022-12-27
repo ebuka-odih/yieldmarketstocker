@@ -1,6 +1,40 @@
 @extends('pages.layout.app')
 @section('content')
 
+    <div class="section gradient-1 no-overflow">
+
+        @include('pages.layout.header')
+
+        <div class="container giant-top medium-bottom">
+            <div class="_16-column">
+                <div id="w-node-cc1bda55-6712-de20-3a79-63aa4694e826-f84df573" class="hero-center">
+                    <div class="hero-stars-lockup-1-center _1-5em-bottom-margin">
+                        <div class="stars-1">
+                            <div class="full-green-star"></div>
+                            <div class="full-green-star"></div>
+                            <div class="full-green-star"></div>
+                            <div class="full-green-star"></div>
+                            <div class="full-green-star"></div>
+                        </div>
+                        <div>4.7 • <a href="https://www.trustpilot.com/review/tradezella.com" target="_blank" class="white-text">TrustPilot Reviews</a>
+                        </div>
+                    </div>
+                    <h1 class="white-text _375em-bottom-margin">Become a Profitable Trader Through Journaling</h1>
+                    <div class="hero-subtitle-container">
+                        <h3 class="light-paragraph-text _1-5em-bottom-margin">Your all in one trading journal to help you track, analyze and improve.</h3>
+                    </div>
+                    <div class="_2-button-lockup">
+                        <a href="{{ route('register') }}" target="_blank" class="medium-button rich-purple w-button">Apply for early access <span class="right-arrow-white">&gt;</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <img src="https://uploads-ssl.webflow.com/630df394ff44d46a174df570/6331ef6d67a79f81764ff701_image12.png" loading="lazy" alt="" class="hero-image-2" />
+        </div>
+    </div>
+
     <div class="section">
         <div class="container giant-top">
             <div class="_8-column">
@@ -205,7 +239,7 @@
                             <img src="https://uploads-ssl.webflow.com/630df394ff44d46a174df570/6329fcbde23c2ceabca6c190_icons8-edit-property.svg" loading="lazy" width="24" alt="" class="content-box-icon-image" />
                         </div>
                         <p class="white-bold-enlarged-paragraph _25em-bottom-margin">Stop trading with hesitation</p>
-                        <p>Use your stats to make data driven decisions to help you trade with confidence.</p>
+                        <p>Allow Yieldmarketstocks to trade for you and save you from the red days.</p>
                     </div>
                     <div class="content-box-bottom-button"></div>
                 </div>
@@ -214,8 +248,8 @@
                         <div class="_1-25em-bottom-margin">
                             <img src="https://uploads-ssl.webflow.com/630df394ff44d46a174df570/6329fcbd893785bccb507349_icons8-graph-report.svg" loading="lazy" width="24" alt="" class="content-box-icon-image" />
                         </div>
-                        <p class="white-bold-enlarged-paragraph _25em-bottom-margin">Recover after a trading loss</p>
-                        <p>Take a look at your losses and recap the red day to build a plan to improve.</p>
+                        <p class="white-bold-enlarged-paragraph _25em-bottom-margin">Recover from the red market</p>
+                        <p>Recover all your losses with Yieldmarketstocks.</p>
                     </div>
                     <div class="content-box-bottom-button"></div>
                 </div>
@@ -235,7 +269,7 @@
                             <img src="https://uploads-ssl.webflow.com/630df394ff44d46a174df570/6315ee7b3ef4cf1e3b7f5541_icons8-stocks.svg" loading="lazy" width="24" alt="" class="content-box-icon-image" />
                         </div>
                         <p class="white-bold-enlarged-paragraph _25em-bottom-margin">Understand your best trade setup</p>
-                        <p>Sticking to 2-3 strategies that WORK are key to building a consistent system. Discover which setup is working and which one isn&#x27;t.</p>
+                        <p>Sticking to strategy that work for you is the key to building a consistent system. Yieldmarketstocks strategies work perfectly.</p>
                     </div>
                     <div class="content-box-bottom-button"></div>
                 </div>
@@ -244,8 +278,8 @@
                         <div class="_1-25em-bottom-margin">
                             <img src="https://uploads-ssl.webflow.com/630df394ff44d46a174df570/6329fcbd18cf4340745a710d_icons8-diploma.svg" loading="lazy" width="24" alt="" class="content-box-icon-image" />
                         </div>
-                        <p class="white-bold-enlarged-paragraph _25em-bottom-margin">Discover your best or worst trading days</p>
-                        <p>Are you typically giving away profits on Fridays? Use data to understand where weak points are to start saving your green days.</p>
+                        <p class="white-bold-enlarged-paragraph _25em-bottom-margin">Discover your best or worst days</p>
+                        <p>Are you typically giving away your profits and capital share’s investment on red days? Use Yieldmarketstocks today and start earning a minimum of 2% and more profits commission daily and start saving your green days.</p>
                     </div>
                     <div class="content-box-bottom-button"></div>
                 </div>
@@ -255,7 +289,7 @@
                             <img src="https://uploads-ssl.webflow.com/630df394ff44d46a174df570/6329fcbdb36b4428a2bf1689_icons8-people-working-together.svg" loading="lazy" width="24" alt="" class="content-box-icon-image" />
                         </div>
                         <p class="white-bold-enlarged-paragraph _25em-bottom-margin">Improve your risk management</p>
-                        <p>No more excessive red days. Use R-Multiple to understand if you&#x27;re risking too much and how you can cut it down.</p>
+                        <p>No more excessive red days. Use Yieldmarketstocks strategies to minimize your risk and save your Green Day’s.</p>
                     </div>
                     <div class="content-box-bottom-button"></div>
                 </div>

@@ -1,0 +1,22 @@
+<div class="container">
+    <div data-collapse="medium" data-animation="default" data-duration="0" data-easing="ease" data-easing2="ease" role="banner" class="navbar w-nav">
+        <div class="brand-wrapper-large">
+            <a href="{{ route('index') }}" >
+                <h3 style="font-weight: bolder; color: white">Yieldmarketstocks</h3>
+            </a>
+        </div>
+
+        <nav role="navigation" class="nav-menu w-nav-menu">
+            <a href="{{ route('blog') }}" class="nav-link light-text w-nav-link">Blog</a>
+            <a href="{{ route('features') }}" class="nav-link light-text w-nav-link">Features</a>
+            <a href="pricing.html" class="nav-link light-text w-nav-link">Pricing</a>
+            <a href="integrations.html" class="nav-link light-text w-nav-link">Integrations</a>
+            <a href="{{ route('login') }}" target="_blank" class="nav-link light-text w-nav-link">Log In</a>
+            <a href="{{ route('register') }}" target="_blank" class="nav-end-link w-nav-link">Apply for early access <span class="right-arrow-white">&gt;</span>
+            </a>
+        </nav>
+        <div class="menu-button w-nav-button">
+            <div class="w-icon-nav-menu"></div>
+        </div>
+    </div>
+</div>
