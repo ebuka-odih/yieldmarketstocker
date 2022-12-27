@@ -165,6 +165,7 @@
             <div id="w-node-_95697d18-bfb3-0d47-8bdc-89304b19c3ab-4b19c3a8" class="footer-1---1">
                 <a href="{{ route('login') }}" target="_blank" class="footer-link-light _5em-bottom-margin">Log In</a>
                 <a href="mailto:support@yieldmarketstocks.com" class="footer-link-light _5em-bottom-margin">Contact Us</a>
+                <p style="margin-bottom: 5px"> Email: <a style="color: white" href="mailto:support@yieldmarketstocks.com" class="footer-link-light _5em-bottom-margin">support@yieldmarketstocks.com</a></p>
                 <a href="{{ route('login') }}" class="footer-link-light _5em-bottom-margin">Synthetic indices</a>
                 <a href="{{ route('login') }}" class="footer-link-light _5em-bottom-margin">Stock indices</a>
                 <a href="{{ route('login') }}" class="footer-link-light _5em-bottom-margin">Commodities</a>
