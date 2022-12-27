@@ -1,11 +1,9 @@
 @component('mail::message')
-# Introduction
+# Hello {{ $deposit->user->name }}
 
-The body of your message.
+Your deposit of ${{ $deposit->amount }} has been approved
 
-@component('mail::button', ['url' => ''])
-Button Text
-@endcomponent
+Please visit your dashboard for more details.
 
 Thanks,<br>
 {{ config('app.name') }}
