@@ -24,14 +24,14 @@
                         <h3 class="light-paragraph-text _1-5em-bottom-margin">Your all in one trading journal to help you track, analyze and improve.</h3>
                     </div>
                     <div class="_2-button-lockup">
-                        <a href="{{ route('register') }}" target="_blank" class="medium-button rich-purple w-button">Apply for early access <span class="right-arrow-white">&gt;</span>
+                        <a href="{{ route('register') }}" target="_blank" class="medium-button rich-purple w-button">Create an Account <span class="right-arrow-white">&gt;</span>
                         </a>
                     </div>
                 </div>
             </div>
         </div>
         <div class="container">
-            <img src="https://uploads-ssl.webflow.com/630df394ff44d46a174df570/6331ef6d67a79f81764ff701_image12.png" loading="lazy" alt="" class="hero-image-2" />
+            <img src="{{ asset('img/tesla3.jpg') }}" loading="lazy" alt="" class="hero-image-2" />
         </div>
     </div>
 
@@ -48,7 +48,7 @@
                         </h3>
                     </div>
                     <div class="_2-button-lockup">
-                        <a href="{{ route('register') }}" target="_blank" class="medium-button rich-purple w-button">Apply for early access <span class="right-arrow-white">&gt;</span>
+                        <a href="{{ route('register') }}" target="_blank" class="medium-button rich-purple w-button">Sign Up <span class="right-arrow-white">&gt;</span>
                         </a>
                     </div>
                 </div>
@@ -85,7 +85,7 @@
                             </div>
                         </div>
                     </div>
-                    <a href="{{ route('register') }}" target="_blank" class="text-button w-button">Apply for early access <span class="solid-icons-override-right"></span>
+                    <a href="{{ route('register') }}" target="_blank" class="text-button w-button">Sign Up <span class="solid-icons-override-right"></span>
                     </a>
                 </div>
                 <div id="w-node-_7d4994c4-cda0-146c-5027-3c0feaec8d4b-f84df573" class="content-image-right">
@@ -117,7 +117,7 @@
                             </div>
                         </div>
                     </div>
-                    <a href="{{ route('register') }}" target="_blank" class="text-button w-button">Apply for early access <span class="solid-icons-override-right"></span>
+                    <a href="{{ route('register') }}" target="_blank" class="text-button w-button">Sign Up <span class="solid-icons-override-right"></span>
                     </a>
                 </div>
             </div>
@@ -143,7 +143,7 @@
                             </div>
                         </div>
                     </div>
-                    <a href="{{ route('register') }}" target="_blank" class="text-button w-button">Apply for early access <span class="solid-icons-override-right"></span>
+                    <a href="{{ route('register') }}" target="_blank" class="text-button w-button">Sign Up <span class="solid-icons-override-right"></span>
                     </a>
                 </div>
                 <div id="w-node-_1760c4c7-acd1-c7a2-620e-39e52741a8d8-f84df573" class="content-image-right">
@@ -314,7 +314,7 @@
                                 </div>
                                 <h3 class="enlarged-bold-h3 white-text _1em-bottom-margin">Thousands of traders have achieved their goals with the power of Yieldmarketstocks</h3>
                                 <div class="_2-button-lockup">
-                                    <a href="{{ route('register') }}" target="_blank" class="medium-button rich-purple w-button">Apply for early access <span class="right-arrow-white">&gt;</span>
+                                    <a href="{{ route('register') }}" target="_blank" class="medium-button rich-purple w-button">Sign Up <span class="right-arrow-white">&gt;</span>
                                     </a>
                                 </div>
                             </div>

@@ -114,7 +114,7 @@
                             </div>
                         </a>
                         <div style="width:100%;height:0PX" class="faq-content">
-                            <p class="faq-paragraph">No. Yieldmarketstocks is NOT a brokerage. You would execute trades on your broker and then transfer the data into Yieldmarketstocks to track and analyze your trading performance.</p>
+                            <p class="faq-paragraph">Yes. Yieldmarketstocks brokerage. Execute trades for users, it trade and return profits for users daily.</p>
                         </div>
                     </div>
                     <div data-w-id="440cb130-e835-750c-db51-d2c9cc2b337a" class="faq-question-wrap">
@@ -125,7 +125,9 @@
                             </div>
                         </a>
                         <div style="width:100%;height:0PX" class="faq-content">
-                            <p class="faq-paragraph">Zella is built by traders, for traders. We&#x27;ve designed and built every feature surrounding the question, &quot;will this help a trader improve their process?&quot; If the answer is no, it&#x27;s not a necessary feature. There are no bells and whistles. Its clean and straight forward.</p>
+                            <p class="faq-paragraph">
+                                Yieldmarketstocks helps traders to execute their trades and keep track of their trading by minimizing human potential mistakes and risk management .
+                            </p>
                         </div>
                     </div>
                     <div data-w-id="ea61c4ae-e4a9-d23d-94ec-553cccfb4590" class="faq-question-wrap">
@@ -147,7 +149,9 @@
                             </div>
                         </a>
                         <div style="width:100%;height:0PX" class="faq-content">
-                            <p class="faq-paragraph">If we support your broker, you can gain access right away! You can click here to view our full integrations page.</p>
+                            <p class="faq-paragraph">
+                                You can gain access right away! You can click here to view our full integrations page.
+                            </p>
                         </div>
                     </div>
                 </div>

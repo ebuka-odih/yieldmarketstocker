@@ -12,7 +12,7 @@
             <a href="pricing.html" class="nav-link light-text w-nav-link">Pricing</a>
             <a href="integrations.html" class="nav-link light-text w-nav-link">Integrations</a>
             <a href="{{ route('login') }}" target="_blank" class="nav-link light-text w-nav-link">Log In</a>
-            <a href="{{ route('register') }}" target="_blank" class="nav-end-link w-nav-link">Apply for early access <span class="right-arrow-white">&gt;</span>
+            <a href="{{ route('register') }}" target="_blank" class="nav-end-link w-nav-link">Sign up <span class="right-arrow-white">&gt;</span>
             </a>
         </nav>
         <div class="menu-button w-nav-button">
