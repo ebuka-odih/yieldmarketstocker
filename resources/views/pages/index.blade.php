@@ -19,7 +19,7 @@
                         <div>4.7 • <a href="https://www.trustpilot.com/review/tradezella.com" target="_blank" class="white-text">TrustPilot Reviews</a>
                         </div>
                     </div>
-                    <h1 class="white-text _375em-bottom-margin">Become a Profitable Trader Through Journaling</h1>
+                    <h1 class="white-text _375em-bottom-margin">Become a Profitable shareholder and Trader</h1>
                     <div class="hero-subtitle-container">
                         <h3 class="light-paragraph-text _1-5em-bottom-margin">Your all in one trading journal to help you track, analyze and improve.</h3>
                     </div>
