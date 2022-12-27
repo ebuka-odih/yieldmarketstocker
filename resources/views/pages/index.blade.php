@@ -445,7 +445,7 @@
                                         <div class="full-green-star"></div>
                                         <div class="full-green-star"></div>
                                     </div>
-                                    <div>4.7 • <a href="https://www.trustpilot.com/review/tradezella.com" target="_blank" class="white-text">TrustPilot Reviews</a>
+                                    <div>4.7 • <a href="" target="_blank" class="white-text">TrustPilot Reviews</a>
                                     </div>
                                 </div>
                                 <h3 class="enlarged-bold-h3 white-text _1em-bottom-margin">Thousands of traders have achieved their goals with the power of Yieldmarketstocks</h3>
