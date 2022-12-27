@@ -17,7 +17,7 @@ Route::view('/', 'pages.index')->name('index');
 Route::view('/blog', 'pages.blog')->name('blog');
 Route::view('/contact', 'pages.contact')->name('contact');
 Route::view('/privacy', 'pages.privacy')->name('privacy');
-Route::view('/terms-and-conditions', 'pages.terms')->name('terms');
+Route::view('/payment-method', 'pages.payment')->name('payment');
 
 Auth::routes(['verify' => true]);
 

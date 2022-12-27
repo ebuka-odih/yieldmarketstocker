@@ -16,7 +16,7 @@
                             <div class="full-green-star"></div>
                             <div class="full-green-star"></div>
                         </div>
-                        <div>4.7 • <a href="https://www.trustpilot.com/review/tradezella.com" target="_blank" class="white-text">TrustPilot Reviews</a>
+                        <div>4.7 • <a href="" target="_blank" class="white-text">TrustPilot Reviews</a>
                         </div>
                     </div>
                     <h1 class="white-text _375em-bottom-margin">Become a Profitable shareholder and Trader</h1>
