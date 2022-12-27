@@ -7,7 +7,7 @@
         </div>
 
         <nav role="navigation" class="nav-menu w-nav-menu">
-            <a href="{{ route('login') }}" target="_blank" class="nav-link light-text w-nav-link">Log In</a>
+            <a href="{{ route('login') }}" target="_blank" class="nav-link light-text w-nav-link">Login</a>
             <a href="{{ route('register') }}" target="_blank" class="nav-end-link w-nav-link">Sign up <span class="right-arrow-white">&gt;</span>
             </a>
         </nav>
