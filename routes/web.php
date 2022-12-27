@@ -15,7 +15,9 @@ use Illuminate\Support\Facades\Route;
 
 Route::view('/', 'pages.index')->name('index');
 Route::view('/blog', 'pages.blog')->name('blog');
-Route::view('/features', 'pages.feature')->name('features');
+Route::view('/contact', 'pages.contact')->name('contact');
+Route::view('/privacy', 'pages.privacy')->name('privacy');
+Route::view('/terms-and-conditions', 'pages.terms')->name('terms');
 
 Auth::routes(['verify' => true]);
 

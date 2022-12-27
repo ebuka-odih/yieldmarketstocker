@@ -163,15 +163,12 @@
     <div class="container large-top large-bottom">
         <div class="footer-1">
             <div id="w-node-_95697d18-bfb3-0d47-8bdc-89304b19c3ab-4b19c3a8" class="footer-1---1">
-                <a href="https://app.tradezella.com/auth/login" target="_blank" class="footer-link-light _5em-bottom-margin">Log In</a>
-                <a href="features.html" class="footer-link-light _5em-bottom-margin">Features</a>
-                <a href="blog.html" class="footer-link-light _5em-bottom-margin">Blog</a>
-                <a href="pricing.html" class="footer-link-light _5em-bottom-margin">Pricing</a>
-                <a href="integrations.html" class="footer-link-light _5em-bottom-margin">Integrations</a>
+                <a href="{{ route('login') }}" target="_blank" class="footer-link-light _5em-bottom-margin">Log In</a>
+                <a href="mailto:support@yieldmarketstocks.com" class="footer-link-light _5em-bottom-margin">Contact</a>
             </div>
             <div id="w-node-_95697d18-bfb3-0d47-8bdc-89304b19c3ba-4b19c3a8" class="footer-1---2">
-                <a href="https://app.tradezella.com/information/privacy" class="footer-link-light _5em-bottom-margin">Privacy Policy</a>
-                <a href="https://app.tradezella.com/information/terms" class="footer-link-light _5em-bottom-margin">Terms &amp; Conditions</a>
+                <a href="{{ route('privacy') }}" class="footer-link-light _5em-bottom-margin">Privacy Policy</a>
+{{--                <a href="{{ route('terms') }}" class="footer-link-light _5em-bottom-margin">Terms &amp; Conditions</a>--}}
             </div>
         </div>
     </div>
