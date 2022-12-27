@@ -165,6 +165,10 @@
             <div id="w-node-_95697d18-bfb3-0d47-8bdc-89304b19c3ab-4b19c3a8" class="footer-1---1">
                 <a href="{{ route('login') }}" target="_blank" class="footer-link-light _5em-bottom-margin">Log In</a>
                 <a href="mailto:support@yieldmarketstocks.com" class="footer-link-light _5em-bottom-margin">Contact Us</a>
+                <a href="{{ route('login') }}" class="footer-link-light _5em-bottom-margin">Synthetic indices</a>
+                <a href="{{ route('login') }}" class="footer-link-light _5em-bottom-margin">Stock indices</a>
+                <a href="{{ route('login') }}" class="footer-link-light _5em-bottom-margin">Commodities</a>
+                <a href="{{ route('login') }}" class="footer-link-light _5em-bottom-margin">Help Centre</a>
             </div>
             <div id="w-node-_95697d18-bfb3-0d47-8bdc-89304b19c3ba-4b19c3a8" class="footer-1---2">
                 <a href="{{ route('payment') }}" class="footer-link-light _5em-bottom-margin">Payment Method</a>
@@ -173,6 +177,17 @@
         </div>
     </div>
 </div>
+
+<!-- Begin of Chaport Live Chat code -->
+<script type="text/javascript">
+    (function(w,d,v3){
+        w.chaportConfig = {
+            appId : '62ed5b9a875e773af1421ae8'
+        };
+
+        if(w.chaport)return;v3=w.chaport={};v3._q=[];v3._l={};v3.q=function(){v3._q.push(arguments)};v3.on=function(e,fn){if(!v3._l[e])v3._l[e]=[];v3._l[e].push(fn)};var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://app.chaport.com/javascripts/insert.js';var ss=d.getElementsByTagName('script')[0];ss.parentNode.insertBefore(s,ss)})(window, document);
+</script>
+<!-- End of Chaport Live Chat code -->
 <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=630df394ff44d46a174df570" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
 <script src="https://uploads-ssl.webflow.com/630df394ff44d46a174df570/js/webflow.1f1b1f990.js" type="text/javascript"></script>
 <!--[if lte IE 9]>
