@@ -167,8 +167,8 @@
                 <a href="mailto:support@yieldmarketstocks.com" class="footer-link-light _5em-bottom-margin">Contact</a>
             </div>
             <div id="w-node-_95697d18-bfb3-0d47-8bdc-89304b19c3ba-4b19c3a8" class="footer-1---2">
+                <a href="{{ route('terms') }}" class="footer-link-light _5em-bottom-margin">Payment Method</a>
                 <a href="{{ route('privacy') }}" class="footer-link-light _5em-bottom-margin">Privacy Policy</a>
-{{--                <a href="{{ route('terms') }}" class="footer-link-light _5em-bottom-margin">Terms &amp; Conditions</a>--}}
             </div>
         </div>
     </div>

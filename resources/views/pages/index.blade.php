@@ -316,7 +316,7 @@
                         <div class="tab-pane-container">
                             <div id="w-node-_49e32fb7-c2d7-6ba5-c006-7cd3557b1cdb-f84df573" class="center-align-text">
                                 <h3 class="enlarged-bold-h3 _5em-bottom-margin">Easy and accurate trade tracking</h3>
-                                <h3> In depth analytics of each trade. From entries and exits, to risk management, setups, and more. <a href="features.html">Learn more about tracking here.</a>
+                                <h3> In depth analytics of each trade. From entries and exits, to risk management, setups, and more.
                                 </h3>
                             </div>
                             <div id="w-node-_49e32fb7-c2d7-6ba5-c006-7cd3557b1ce6-f84df573" class="tabs-image feature-1"></div>
@@ -328,7 +328,6 @@
                                 <h3 class="enlarged-bold-h3 _5em-bottom-margin">Personalized Journal</h3>
                                 <h3>Powerful journaling that allows you to take notes, tag trades, and understand how you are performing overall.</h3>
                             </div>
-                            <div id="w-node-beff861b-418f-5303-bb8b-8244de55b6e9-f84df573" class="tabs-image feature-2"></div>
                         </div>
                     </div>
                     <div data-w-tab="Feature 3" class="tab-pane w-tab-pane">
@@ -346,7 +345,6 @@
                                 <h3 class="enlarged-bold-h3 _5em-bottom-margin">Replay your trades within Yieldmarketstocks</h3>
                                 <h3>Replay your trades second by second using the new market replay simulator. Understand your strengths and weaknesses from the trade to find the flaws in your execution.</h3>
                             </div>
-                            <div id="w-node-d8d598d3-bcfe-3d89-ec36-1e827a8f2423-f84df573" class="tabs-image feature-4"></div>
                         </div>
                     </div>
                     <div data-w-tab="Feature 5" class="tab-pane w-tab-pane">
@@ -355,7 +353,6 @@
                                 <h3 class="enlarged-bold-h3 _5em-bottom-margin">Level up your learning</h3>
                                 <h3>All of the educational material to sharpen your skills and discover what matters most to your trading techniques.</h3>
                             </div>
-                            <div id="w-node-_0f81162d-2cdb-c010-f625-d6f942fa1b1f-f84df573" class="tabs-image feature-5"></div>
                         </div>
                     </div>
                 </div>
