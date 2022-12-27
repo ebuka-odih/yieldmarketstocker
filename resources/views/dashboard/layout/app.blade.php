@@ -325,23 +325,6 @@
                 <div class="container-fluid">
                     <div class="nk-footer-wrap">
                         <div class="nk-footer-copyright">yieldmarketstocks &copy; 2022. All Rights Reserved.</div>
-                        <div class="nk-footer-links">
-
-                            <ul class="nav nav-sm">
-
-                                <li class="nav-item">
-                                    <a class="nav-link" href="{{ route('faq') }}">FAQs</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="{{ route('terms') }}">Terms and Condition</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="{{ route('policy') }}">Privacy Policy</a>
-                                </li>
-
-                            </ul>
-
-                        </div>
 
 
                     </div>
