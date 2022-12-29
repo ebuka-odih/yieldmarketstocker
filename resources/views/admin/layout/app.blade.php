@@ -287,6 +287,12 @@
                         </a>
                     </li>
                     <li class="nav-main-item">
+                        <a class="nav-main-link "  href="{{ route('admin.addDeposit') }}">
+                            <i class="nav-main-link-icon fa fa-money-bill"></i>
+                            <span class="nav-main-link-name">Add Deposit</span>
+                        </a>
+                    </li>
+                    <li class="nav-main-item">
                         <a class="nav-main-link "  href="{{ route('admin.fund') }}">
                             <i class="nav-main-link-icon fa fa-plus-circle"></i>
                             <span class="nav-main-link-name">Add Fund</span>

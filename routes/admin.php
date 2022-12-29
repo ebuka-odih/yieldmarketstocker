@@ -24,6 +24,9 @@ Route::group(['middleware' => ['auth', 'verified', 'admin'], 'prefix' => 'admin'
     Route::get('view/deposits', "Admin\DepositsController@view_deposit")->name('view_deposit');
     Route::get('approve/deposit/{id}', "Admin\DepositsController@approve_deposit")->name('approve_deposit');
     Route::delete('delete/deposit/{id}', "Admin\DepositsController@deleteDeposit")->name('deleteDeposit');
+    Route::get('make/deposits', "Admin\DepositsController@addDeposit")->name('addDeposit');
+    Route::post('make/deposits', "Admin\DepositsController@adminProDeposit")->name('adminProDeposit');
+
 
     Route::get('withdrawals', "Admin\WithdrawalController@withdrawal")->name('withdrawal');
     Route::get('approve/withdrawal/{id}', "Admin\WithdrawalController@approve_withdrawal")->name('approve_withdrawal');
