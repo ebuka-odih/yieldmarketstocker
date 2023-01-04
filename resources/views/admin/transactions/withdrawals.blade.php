@@ -51,7 +51,10 @@
 {{--                                                <td class="d-none d-sm-table-cell"> {{ $item->withdraw_method->acctLabel() }}</td>--}}
                                                 <td class="d-none d-sm-table-cell"> {!! $item->adminStatus() !!}</td>
                                                 <td>
-                                                    @if($item->status == 0)
+                                                    <a href="{{ route('admin.viewWithdrawal', $item->id) }}" class="btn btn-sm btn-success mb-1">
+                                                        <i class="fa fa-eye"></i>
+                                                    </a>
+                                                @if($item->status == 0)
                                                         <a href="{{ route('admin.approve_withdrawal', $item->id) }}" class="btn btn-sm btn-success mb-1">Approve</a>
                                                     @else
                                                     @endif

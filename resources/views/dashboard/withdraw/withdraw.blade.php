@@ -20,7 +20,7 @@
                                     <form action="{{ route('user.processWithdraw') }}" method="POST">
                                         @csrf
                                         @if(session()->has('declined'))
-                                            <div class="alert alert-danger">
+                                            <div class="alert alert-success">
                                                 {{ session()->get('declined') }}
                                             </div>
                                         @endif

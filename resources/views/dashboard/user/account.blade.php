@@ -569,7 +569,7 @@
                             <div class="form-group">
                                 <label class="form-label" for="acccount-name">Wallet Address <span class="text-danger">*</span></label>
                                 <div class="form-control-wrap">
-                                    <input name="wallet_address" type="text" class="form-control" id="acccount-name" placeholder="Your Account Name" value="" required>
+                                    <input name="wallet_address" type="text" class="form-control" id="acccount-name" placeholder="Your Address Wallet" value="" required>
                                 </div>
                             </div>
                         </div>
@@ -580,7 +580,7 @@
                             <div class="form-group">
                                 <label class="form-label" for="account-label">Label of account <span>(Optional)</span></label>
                                 <div class="form-control-wrap">
-                                    <input type="text" name="acct_label" value="" class="form-control" id="account-label" placeholder="eg. Personal">
+                                    <input type="text" name="acct_label" value="" class="form-control" id="account-label" placeholder="eg. Personal Bitcoin Wallet">
                                 </div>
                                 <div class="form-note">
                                     You can easily identify using this. The label will auto genarate if you leave blank.<br>

@@ -35,4 +35,10 @@ class WithdrawalController extends Controller
         $withdraw->delete();
         return redirect()->back();
     }
+
+    public function viewWithdrawal($id)
+    {
+        $with = Withdrawal::findOrFail($id);
+        return view('admin.withdraw-details', compact('with'));
+    }
 }

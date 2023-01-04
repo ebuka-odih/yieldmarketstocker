@@ -25,15 +25,19 @@
                         <table class="table table-striped">
                             <tr>
                                 <th>Full Name:</th>
-                                <td>{{ $deposit->user->name }}</td>
+                                <td>{{ $with->user->name }}</td>
                             </tr>
                             <tr>
-                                <th>Telephone:</th>
-                                <td>555 77 854</td>
+                                <th>Amount:</th>
+                                <td>{{ $with->amount }}</td>
                             </tr>
                             <tr>
-                                <th>Telephone:</th>
-                                <td>555 77 855</td>
+                                <th>Wallet:</th>
+                                <td>{{ $with->withdraw_method->wallet_name }}</td>
+                            </tr>
+                            <tr>
+                                <th>Address:</th>
+                                <td>{{ $with->withdraw_method->wallet_address }}</td>
                             </tr>
                         </table>
 

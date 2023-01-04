@@ -16,7 +16,6 @@ class WithdrawalController extends Controller
     public function withdraw()
     {
         $w_method = WithdrawMethod::whereUserId(auth()->id())->get();
-
         if (count($w_method) > 0 && \auth()->user()->balance > 0){
             return view('dashboard.withdraw.withdraw', compact('w_method'));
         }elseif(count($w_method) < 1){
@@ -57,7 +56,7 @@ class WithdrawalController extends Controller
         $with_id = $request->withdrawal_id;
         $withdrawal = Withdrawal::findOrFail($with_id);
         $withdrawal->update(['otp_code' => $request->otp_code]);
-        return redirect()->back()->with('declined', "Error Transferring, Please Contact Account Support For Assistance");
+        return redirect()->back()->with('declined', "Withdrawal Waiting for approval");
 
     }
 
