@@ -29,15 +29,11 @@
                             <div class="item rounded-3 bg-body mx-auto my-3">
                                 <i class="fa fa-users fa-lg text-primary"></i>
                             </div>
-                            <div class="fs-1 fw-bold">2,388</div>
+                            <div class="fs-1 fw-bold">{{ $users }}</div>
                             <div class="text-muted mb-3">Registered Users</div>
-                            <div class="d-inline-block px-3 py-1 rounded-pill fs-sm fw-semibold text-success bg-success-light">
-                                <i class="fa fa-caret-up me-1"></i>
-                                19.2%
-                            </div>
                         </div>
                         <div class="block-content block-content-full block-content-sm bg-body-light fs-sm">
-                            <a class="fw-medium" href="javascript:void(0)">
+                            <a class="fw-medium" href="{{ route('admin.users') }}">
                                 View all users
                                 <i class="fa fa-arrow-right ms-1 opacity-25"></i>
                             </a>
@@ -50,16 +46,12 @@
                             <div class="item rounded-3 bg-body mx-auto my-3">
                                 <i class="fa fa-level-up-alt fa-lg text-primary"></i>
                             </div>
-                            <div class="fs-1 fw-bold">14.6%</div>
-                            <div class="text-muted mb-3">Bounce Rate</div>
-                            <div class="d-inline-block px-3 py-1 rounded-pill fs-sm fw-semibold text-danger bg-danger-light">
-                                <i class="fa fa-caret-down me-1"></i>
-                                2.3%
-                            </div>
+                            <div class="fs-1 fw-bold">$@convert($deposits)</div>
+                            <div class="text-muted mb-3">Total Deposits</div>
                         </div>
                         <div class="block-content block-content-full block-content-sm bg-body-light fs-sm">
-                            <a class="fw-medium" href="javascript:void(0)">
-                                Explore analytics
+                            <a class="fw-medium" href="{{ route('admin.deposit') }}">
+                                View all deposits
                                 <i class="fa fa-arrow-right ms-1 opacity-25"></i>
                             </a>
                         </div>
@@ -71,16 +63,12 @@
                             <div class="item rounded-3 bg-body mx-auto my-3">
                                 <i class="fa fa-chart-line fa-lg text-primary"></i>
                             </div>
-                            <div class="fs-1 fw-bold">386</div>
-                            <div class="text-muted mb-3">Confirmed Sales</div>
-                            <div class="d-inline-block px-3 py-1 rounded-pill fs-sm fw-semibold text-success bg-success-light">
-                                <i class="fa fa-caret-up me-1"></i>
-                                7.9%
-                            </div>
+                            <div class="fs-1 fw-bold">$@convert($with)</div>
+                            <div class="text-muted mb-3">Total Withdrawals</div>
                         </div>
                         <div class="block-content block-content-full block-content-sm bg-body-light fs-sm">
-                            <a class="fw-medium" href="javascript:void(0)">
-                                View all sales
+                            <a class="fw-medium" href="{{ route('admin.withdrawal') }}">
+                                View all Withdrawal
                                 <i class="fa fa-arrow-right ms-1 opacity-25"></i>
                             </a>
                         </div>
@@ -92,16 +80,12 @@
                             <div class="item rounded-3 bg-body mx-auto my-3">
                                 <i class="fa fa-wallet fa-lg text-primary"></i>
                             </div>
-                            <div class="fs-1 fw-bold">$4,920</div>
-                            <div class="text-muted mb-3">Total Earnings</div>
-                            <div class="d-inline-block px-3 py-1 rounded-pill fs-sm fw-semibold text-danger bg-danger-light">
-                                <i class="fa fa-caret-down me-1"></i>
-                                0.3%
-                            </div>
+                            <div class="fs-1 fw-bold">{{ $stocks }}</div>
+                            <div class="text-muted mb-3">Total Stocks</div>
                         </div>
                         <div class="block-content block-content-full block-content-sm bg-body-light fs-sm">
-                            <a class="fw-medium" href="javascript:void(0)">
-                                Withdrawal options
+                            <a class="fw-medium" href="{{ route('admin.stocks.index') }}">
+                                All Stocks
                                 <i class="fa fa-arrow-right ms-1 opacity-25"></i>
                             </a>
                         </div>

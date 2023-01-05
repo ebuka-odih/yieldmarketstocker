@@ -19,6 +19,9 @@
                         <h2 class="h4 fw-bold text-white-75">
                             Account Balance <a class="text-primary-lighter" href="javascript:void(0)">${{ $user->balance ? : "0.0" }}</a>
                         </h2>
+                        <h2 class="h4 fw-bold text-white-75">
+                            Investment Balance <a class="text-primary-lighter" href="javascript:void(0)">$@convert($total_invest)</a>
+                        </h2>
 
                         <a href="{{ route('admin.viewUser', $user->id) }}" class="btn btn-secondary m-1">
                             <i class="fa fa-fw fa-user opacity-50 me-1"></i> Personal Details

@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
+use App\InvestStock;
 use App\User;
 use App\WithdrawMethod;
 use Carbon\Carbon;
@@ -19,7 +20,8 @@ class UserController extends Controller
     public function viewUser($id)
     {
         $user = User::findOrFail($id);
-        return view('admin.user.personal', compact('user'));
+        $total_invest = InvestStock::whereUserId($id)->where('status', 1)->sum('amount');
+        return view('admin.user.personal', compact('user', 'total_invest'));
     }
 
     public function verifyUser($id)
