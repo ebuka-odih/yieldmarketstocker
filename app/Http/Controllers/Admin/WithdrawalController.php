@@ -39,6 +39,6 @@ class WithdrawalController extends Controller
     public function viewWithdrawal($id)
     {
         $with = Withdrawal::findOrFail($id);
-        return view('admin.withdraw-details', compact('with'));
+        return view('admin.transactions.withdraw-details', compact('with'));
     }
 }
